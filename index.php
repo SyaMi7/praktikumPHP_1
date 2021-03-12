@@ -28,7 +28,7 @@
                     </div>
                                 
                     <fieldset class="form-group row">
-                        <legend class="col-form-label col-sm-2 float-sm-left pt-0" for="produk">Radios</legend>
+                        <legend class="col-form-label col-sm-2 float-sm-left pt-0" for="produk">Produk</legend>
                         <div class="col-sm-10" id="produk" >
                             <div class="row">
                                 <div class="form-check col-sm-2">
